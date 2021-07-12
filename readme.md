@@ -10,3 +10,7 @@ composer install
 php artisan key:generate
 
 php artisan migrate
+
+## For Run Project
+
+php artisan serve
